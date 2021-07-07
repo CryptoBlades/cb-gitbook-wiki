@@ -54,9 +54,9 @@ Aligned Character Power uses
 Instead of the formula simply summing up all the weapon's attributes, we instead evaluate each attribute separately and apply the following calculations to determine their value
 
 ```text
-if attributeElement == charElement (attributeValue * 0.0025)
+if attributeElement != charElement (attributeValue * 0.0025)
 if attributeElement == PWR (attributeValue * 0.002575)
-if attributeElement != charElement (attributeValue * 0.002675)
+if attributeElement == charElement (attributeValue * 0.002675)
 ```
 
 Once each attribute has been evaluated, they get totaled and used in the same formula as unaligned power to get the aligned power.
