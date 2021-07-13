@@ -2,6 +2,16 @@
 
 SKILL is the currency used to create and enhance the asset NFTs players use to play the game. Over time, more use cases will be created to increase the value of SKILL and circulate the economy of the game.
 
+## In Game Only Funds
+
+In-Game-Only SKILL is SKILL that can only be spent on minting characters, minting weapons, and reforging.
+
+This SKILL is currently obtainable through staking in the SKILL for SKILL pool.
+
+More information on staking can be found here:
+
+{% page-ref page="staking.md" %}
+
 ## Minting Characters
 
 Characters are one of the two main NFTs currently available in CryptoBlades. Characters are necessary to perform combat in CryptoBlades and only increase in value as the player continues to win fights.

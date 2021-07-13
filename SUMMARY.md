@@ -11,8 +11,9 @@
 ## SKILL
 
 * [What is SKILL?](skill/what-is-skill/README.md)
-  * [Spending SKILL](skill/what-is-skill/spending-skill.md)
   * [Obtaining SKILL](skill/what-is-skill/obtaining-skill.md)
+  * [Spending SKILL](skill/what-is-skill/spending-skill.md)
+  * [Staking](skill/what-is-skill/staking.md)
 
 ## Characters
 
