@@ -10,5 +10,15 @@ The gas fees usually cost around 0.0007 to 0.0010 BNB depending on the transacti
 
 Combat gas fees are listed at 0.0025, however that is just a maximum amount that the player may pay. The true gas costs of fights are around 0.0007 BNB which can be seen in your MetaMask transactions.
 
+## Recommended BNB
+
+Due to the implementation of Early Withdraw Tax, it is recommended that new players hold a decent amount of BNB to be used for gas fees.
+
+The current recommended amount of BNB is 0.16, give or take a few skill depending on the needs of the player.
+
+This amount will sustain a player for a week's worth of fights, currently costing around 0.142 BNB give or take a few BNB to account for network traffic.
+
+The remaining BNB will be used for the various transactions a player might perform, such as claiming/staking SKILL, claiming experience, forging, etc.
+
 
 

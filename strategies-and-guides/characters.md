@@ -2,7 +2,9 @@
 
 ## Your First Character/s
 
-To begin playing the game you may mint your first character and receive a free 1-star weapon to go with it, however this might not be the best way to start.
+To begin playing the game you may mint your first character and receive a free 1-star weapon to go with it, along with 5 In-Game-Only SKILL.
+
+There are alternatives to simply minting four characters, as this might get you a set of different element characters and won't synergize with just one sword.
 
 A common recommendation for starting players is to either purchase characters on the market so they can get four characters of the same element. 
 

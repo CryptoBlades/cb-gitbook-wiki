@@ -16,9 +16,21 @@ Information on the combat calculations can be found here:
 
 SKILL won through combat will be reflected in the player's Rewards bar on the upper left hand side of the screen. If the Rewards bar is not visible, you may select the gear icon on the upper right hand side of the screen and enable the Rewards bar.
 
-![](../../.gitbook/assets/claiming-skill.png)
+![](../../.gitbook/assets/skill-rewards-bar.png)
 
-When the player decides to mint a new character or weapon, CryptoBlades will take SKILL from the player's Rewards pool before spending any SKILL on their wallet.
+Claiming SKILL from the rewards pool may subject the player to the Early Withdraw Tax, explained in the section below.
+
+## Early Withdraw Tax
+
+Each player is subject to a Early Withdraw Tax that disincentivizes the rapid withdrawing and selling of SKILL on a day to day basis.
+
+The tax initially starts at 15%, reducing by 1% per day until it hits 0%.
+
+Each time the player withdraws SKILL, or stakes unclaimed SKILL on the staking pool, the tax resets back to 15%.
+
+Users who wish to avoid the tax may find some more information on the staking page, found here:
+
+{% page-ref page="staking.md" %}
 
 ## Trading
 
