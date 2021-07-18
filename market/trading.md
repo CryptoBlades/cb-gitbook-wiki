@@ -14,7 +14,15 @@ To ensure smooth trading with no risk, please conduct trades through the CryptoB
 
 ## Trading Characters
 
-Trading characters takes place on the character contract, which can be found [here](https://www.bscscan.com/address/0xc6f252c2cdd4087e30608a35c022ce490b58179b#writeProxyContract). Note that this is different from the weapon contract.
+Trading characters takes place on the character contract, which can be found in the link below. Note that this is different from the weapon contract.
+
+[CryptoBlades Character Trading Contract](https://www.bscscan.com/address/0xc6f252c2cdd4087e30608a35c022ce490b58179b#writeProxyContract)
+
+{% hint style="info" %}
+Please note that this link is different from the weapon trading contract.
+
+You cannot trade weapons on the character contract.
+{% endhint %}
 
 To start, please ensure that the receiving wallet has an extra character slot, and the character in question is not under trade lock. If the following conditions are met you may follow the instructions outlined below.
 
@@ -42,7 +50,15 @@ Make sure that the account in possession of the character is the one connected t
 
 ## Trading Weapons
 
-Trading weapons takes place on the weapon contract, which can be found [here](https://www.bscscan.com/address/0x7e091b0a220356b157131c831258a9c98ac8031a#writeProxyContract). Note that this is different from the character contract.
+Trading weapons takes place on the weapon contract, which can be found in the link below. Note that this is different from the character contract.
+
+[CryptoBlades Weapon Trading Contract](https://www.bscscan.com/address/0x7e091b0a220356b157131c831258a9c98ac8031a#writeProxyContract)
+
+{% hint style="info" %}
+Please note that this link is different from the character trading contract.
+
+You cannot trade characters on the weapon contract.
+{% endhint %}
 
 The steps to trade weapons is identical to character trading, except the function is number 13 instead.
 

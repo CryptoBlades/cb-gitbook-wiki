@@ -2,6 +2,8 @@
 
 SKILL serves as the native currency for CryptoBlades. Players leverage SKILL to acquire characters, forge and reforge weapons, and to buy and sell on the CryptoBlades marketplace.
 
+There is a maximum supply of 1,000,000 SKILL tokens.
+
 The supply of SKILL is designated as follows:
 
 * IDO - 35%

@@ -65,38 +65,3 @@ Due to the conditions present in LB reforging under 50/100 LB, the optimal way t
 4. From 50/100 LB onwards you may burn your choice of 1 to 3 star weapons.
 {% endhint %}
 
-## Reforge Value
-
-Because the Bonus Power variable added by reforging isn't multiplied by either the character's current power or the weapon, we can calculate the estimated payout increase we get assuming a certain amount of Bonus Power.
-
-The formula to calculate the increased gains will not return a specific amount, but rather a range of values that still depends on the player's choice of enemy.
-
-We start by getting two variables which we'll name **minAddedPower** and **maxAddedPower**. These two variables are obtained by applying a ±10% to the Bonus Power variable.
-
-{% hint style="info" %}
-Assuming the following variables:
-
-* Bonus Power : 1500
-
-We get the following:
-
-* minAddedPower : 1350
-* maxAddedPower : 1650
-{% endhint %}
-
-We then apply the SKILL payout formula to these two variables to determine the range of minimum added payout and maximum added payout.
-
-More information on calculating SKILL payouts can be found here:
-
-{% page-ref page="../combat/fighting/combat-rewards.md" %}
-
-{% hint style="info" %}
-Continuing from our example above we apply the payout formula and get the following variables:
-
-* SKILL per 1000 Power : 0.014651 \(taken on July 7, 2021\)
-* Minimum Added Payout : 0.01977885
-* Maximum Added Payout : 0.02417415
-
-The actual added payout still depends on the enemy power chosen, but with this calculation we have an idea on the range of added payout given by Bonus Power.
-{% endhint %}
-

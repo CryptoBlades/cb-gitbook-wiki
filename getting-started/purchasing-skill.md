@@ -22,11 +22,11 @@ The steps to purchasing SKILL are outlined below:
 
 ![](../.gitbook/assets/confirm-connect-with-meta.png)
 
-4. Make sure BNB is set on the "Swap From:" field on the upper portion of the interface.
+5. Make sure BNB is set on the "Swap From:" field on the upper portion of the interface.
 
-5. Input the desired amount of BNB to spend.
+6. Input the desired amount of BNB to spend.
 
-6. Double check your values and once you are satisfied click on "Swap" and "Confirm Swap".
+7. Double check your values and once you are satisfied click on "Swap" and "Confirm Swap".
 
 {% hint style="info" %}
 Be patient and wait for pending transactions to complete. Repeated clicking may cause multiple transactions to register and unnecessary gas fees might be paid.

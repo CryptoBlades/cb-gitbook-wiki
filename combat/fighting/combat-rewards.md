@@ -10,23 +10,37 @@ $$
 
 ## Skill Payout
 
-![Taken July 5, 2012](../../.gitbook/assets/skill-payout.png)
+The formula to determine SKILL payout is as follows:
 
-The SKILL payout formula is listed on the combat page at all times, and uses the enemy's listed power for calculation purposes. These numbers may change in the future depending on the economic state of the game.
+$$
+payout = gasOffset + (baseline * √(enemyPower/1000))
+$$
+
+Gas Offset is shown in the earnings on victory display on the Combat tab as follows:
+
+![Taken July 18, 2021](../../.gitbook/assets/earnings-gas-offset.png)
+
+Baseline is shown in the earnings on victory display on the Combat tab as follows:
+
+![Taken July 18, 2021](../../.gitbook/assets/earnings-baseline.png)
+
+These numbers are subject to change in the future as the developers continue to balance the economic state of the game.
 
 To give an example, let us use this enemy for the basis of our calculations:
 
-![](../../.gitbook/assets/sample-enemy-skill-payout.png)
+![Taken July 18, 2021](../../.gitbook/assets/sample-enemy.png)
 
-24692 gets divided by 1000 to get 24.692.
+29628 gets divided by 1000 to get 29.628.
 
-That value then gets multiplied by the listed payout per 1000 power. In this example's case, that comes out to 0.361762492.
+We then get the square root of this value to get roughly 5.443161.
 
-That gets added to the gas offset, currently at 0.111627 to get the expected payout of 0.473389492.
+We multiply that value with the baseline rewards value at the time to get roughly 0.352641.
 
-Actually doing the fight, we end up with a result of
+That gets added to the gas offset to get the expected payout of 0.396291.
 
-![Taken July 5, 2021](../../.gitbook/assets/skill-payout-sample.png)
+As we can see below, we get a similar value when we actually perform the fight.
+
+![Taken July 18, 2021](../../.gitbook/assets/result.png)
 
 Decimal places and rounding gives a slightly different value from what we calculated, but overall it's close to our projected value.
 
