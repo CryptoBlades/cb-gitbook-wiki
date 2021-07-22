@@ -50,18 +50,9 @@ Depending on the rarity of the weapon and the current value of the pool, the amo
 
 Refer to the following to determine how much the pool will increase when the respective weapon rarity is burnt.
 
-* 1-star weapon burns increases LB by two if the LB is under 10, otherwise it increases it by one.
-* 2-star weapon burns increases LB by two if the LB is under 30, otherwise it increases it by one.
-* 3-star weapon burns increases LB by four if the LB is under 50, otherwise it increases it by two.
+* 1-star weapon burns increases LB by one
+* 2-star weapon burns increases LB by two.
+* 3-star weapon burns increases LB by three.
 * 4-star weapon burns always increases 4B by one.
 * 5-star weapon burns always increases 5B by one.
-
-{% hint style="info" %}
-Due to the conditions present in LB reforging under 50/100 LB, the optimal way to reforge a weapon starting from 0/100 LB is as follows.
-
-1. Burn five 1-star weapons to increase the LB from 0 to 10.
-2. Burn ten 2-star weapons to increase the LB from 10 to 30.
-3. Burn five 3-star weapons to increase the LB from 30 to 50.
-4. From 50/100 LB onwards you may burn your choice of 1 to 3 star weapons.
-{% endhint %}
 

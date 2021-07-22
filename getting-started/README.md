@@ -12,7 +12,3 @@ Once your MetaMask wallet has been setup, instructions to purchase SKILL on a DE
 
 {% page-ref page="purchasing-skill.md" %}
 
-
-
-
-
