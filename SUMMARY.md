@@ -7,13 +7,15 @@
   * [Gas Fees](getting-started/gas-fees.md)
   * [Multiple Accounts](getting-started/multiple-accounts.md)
   * [Common Issues and Solutions](getting-started/common-issues-and-solutions.md)
+* [Infrastructure](infrastructure.md)
 
 ## SKILL
 
 * [What is SKILL?](skill/what-is-skill/README.md)
-  * [Obtaining SKILL](skill/what-is-skill/obtaining-skill.md)
   * [Spending SKILL](skill/what-is-skill/spending-skill.md)
+  * [Obtaining SKILL](skill/what-is-skill/obtaining-skill.md)
   * [Staking](skill/what-is-skill/staking.md)
+  * [Oracle](skill/what-is-skill/oracle.md)
 
 ## Characters
 

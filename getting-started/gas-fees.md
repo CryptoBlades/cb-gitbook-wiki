@@ -10,6 +10,18 @@ The gas fees usually cost around 0.0007 to 0.0010 BNB depending on the transacti
 
 Combat gas fees are listed at 0.0025, however that is just a maximum amount that the player may pay. The true gas costs of fights are around 0.0007 BNB which can be seen in your MetaMask transactions.
 
+## Fight Gas Cost
+
+Fighting prompts players for a set gas cost that is different from what is actually charged as displayed in the pictures below.
+
+![](../.gitbook/assets/sample-fight-gas-fee.png)
+
+The actual gas cost for the transaction is a much lesser 0.0007 BNB on average as displayed in the next picture.
+
+![](../.gitbook/assets/actual-fight-gas-fee.png)
+
+Gas costs for transactions are subject to volatility depending on network traffic on the Binance Smart Chain.
+
 ## Recommended BNB
 
 Due to the implementation of Early Withdraw Tax, it is recommended that new players hold a decent amount of BNB to be used for gas fees.
