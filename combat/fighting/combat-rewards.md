@@ -18,7 +18,7 @@ $$
 
 Gas Offset is shown in the earnings on victory display on the Combat tab as follows:
 
-![Taken July 18, 2021](../../.gitbook/assets/earnings-gas-offset.png)
+![Taken July 18, 2021](../../.gitbook/assets/earnings-gas-offset%20%281%29.png)
 
 Baseline is shown in the earnings on victory display on the Combat tab as follows:
 

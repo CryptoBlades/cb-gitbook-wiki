@@ -6,11 +6,23 @@ SKILL is the currency used to create and enhance the asset NFTs players use to p
 
 In-Game-Only SKILL is SKILL that can only be spent on minting characters, minting weapons, and reforging.
 
+In-Game-Only cannot be spent on the marketplace to purchase NFTs.
+
 This SKILL is currently obtainable through staking in the SKILL for SKILL pool.
 
 More information on staking can be found here:
 
 {% page-ref page="staking.md" %}
+
+## SKILL Spending Order
+
+CryptoBlades will prioritize spending SKILL in the following order for minting characters, weapons, and reforging:
+
+1. In-Game-Only
+2. Unclaimed SKILL
+3. Wallet SKILL
+
+If one pool of SKILL is insufficient for the transaction, CryptoBlades will take SKILL from the next pool in the list above to satisfy the cost.
 
 ## Minting Characters
 

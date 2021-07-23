@@ -12,6 +12,16 @@ Information on the combat calculations can be found here:
 
 {% page-ref page="../../combat/fighting/" %}
 
+## Earnings Calculator
+
+CryptoBlades has a built in calculator where the player may input a dollar value for both SKILL and BNB, and then the stats of their current character and selected weapon.
+
+The calculator will then show the potential daily and monthly earnings based on a specific amount of wins compared to the total daily fights.
+
+{% hint style="info" %}
+The calculator does not take into account the potential of the character to level. Due to the speed at which starting characters level up, it might be good to do new calculations when the character in question reaches the next milestone.
+{% endhint %}
+
 ## Claiming SKILL
 
 SKILL won through combat will be reflected in the player's Rewards bar on the upper left hand side of the screen. If the Rewards bar is not visible, you may select the gear icon on the upper right hand side of the screen and enable the Rewards bar.

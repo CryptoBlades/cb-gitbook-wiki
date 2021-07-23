@@ -18,3 +18,5 @@ After seven days, users may withdraw their staked SKILL directly into their Meta
 This means that users may avoid the 15% tax altogether, if they stake their unclaimed SKILL and wait for the seven day lock period before withdrawing it all out with no tax.
 {% endhint %}
 
+The lock timer of staking only resets when the player withdraws any amount. This means that players may continue to top up their staking pool after the seven day timer is up, and it will not lock them out of withdrawing their staked SKILL.
+
