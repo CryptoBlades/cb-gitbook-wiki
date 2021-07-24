@@ -72,9 +72,9 @@ These percentages are used to quantify the impact that particular attribute has 
 The formula to determine that percentage in decimal form is outlined below.
 
 ```text
-if attributeElement == charElement (attributeValue * 0.0025)
+if attributeElement != charElement (attributeValue * 0.0025)
 if attributeElement == PWR (attributeValue * 0.002575)
-if attributeElement != charElement (attributeValue * 0.002675)
+if attributeElement == charElement (attributeValue * 0.002675)
 ```
 
 This means that the maximum displayed percentage would be 107% for a paired attribute with a value of 400.
