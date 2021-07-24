@@ -4,6 +4,22 @@ CryptoBlades assets such as characters and weapons are user owned ERC-721 NFTs c
 
 To remove the possibility for scams when conducting trades through the use of the NFT contracts, CryptoBlades has a proprietary marketplace where users may list and purchase their NFTs.
 
+## Approving SKILL Spending
+
+The first notification the player gets when purchasing NFTs on the marketplace is an approval transaction similar to the one pictured below:
+
+![](../.gitbook/assets/allow-skill-spending.png)
+
+CryptoBlades does not have free authorization to spend SKILL directly from your MetaMask wallet, and therefore must ask for authorization each time the player wants to make a marketplace transaction.
+
+This transaction is different from the actual purchase confirmation. Players will receive a new notification for the market purchase after the approval transaction has completed.
+
+{% hint style="info" %}
+Approving SKILL does NOT mean you were able to purchase an item on the market.
+
+You will receive a gas fee error if you attempt to purchase an item that has already been purchased by someone else.
+{% endhint %}
+
 ## Tax
 
 Listing an NFT only requires the gas fee necessary to conduct the transaction to transfer the NFT to the marketplace contract.
