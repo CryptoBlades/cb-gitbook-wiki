@@ -27,7 +27,7 @@ The oracle keeps track of the current dollar value of SKILL, and updates at an u
 
 To get the current rate of the oracle, follow the steps outlined below:
 
-1. Go to the oracle contract here : [**Oracle**](https://www.bscscan.com/address/0x1cbfa0ec28da66896946474b2a93856eb725fbba#readProxyContract)\*\*\*\*
+1. Go to the oracle contract here : [**Oracle**](https://bscscan.com/address/0x1cbfa0ec28da66896946474b2a93856eb725fbba#readProxyContract)\*\*\*\*
 
 2. Click on the number indicated by Function 3. currentPrice.
 
