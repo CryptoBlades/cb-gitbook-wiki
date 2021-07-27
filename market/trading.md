@@ -32,13 +32,13 @@ To start, please ensure that the receiving wallet has an extra character slot, a
 
 ![](../.gitbook/assets/char-connected-web3.png)
 
-2. Scroll down to Function 12. safeTransferFrom and input the following data:
+2. Scroll down to Function 13. safeTransferFrom and input the following data:
 
 * from \(address\) - The owner's address goes here
 * to \(address\) - The receiver's address goes here
 * tokenID \(uint256\) - The character ID goes here
 
-![](../.gitbook/assets/new-char-form.png)
+![](../.gitbook/assets/function-13-character.png)
 
 3. Click on "Write". You will be prompted by MetaMask to confirm your transaction.
 
@@ -68,13 +68,13 @@ The steps to trade weapons is identical to character trading, except the functio
 
 ![](../.gitbook/assets/connected-web3.png)
 
-2. Scroll down to Function 13. safeTransferFrom and input the following data:
+2. Scroll down to Function 14. safeTransferFrom and input the following data:
 
 * from \(address\) - The owner's address goes here
 * to \(address\) - The receiver's address goes here
 * tokenID \(uint256\) - The weapon ID goes here
 
-![](../.gitbook/assets/weapon-f13.png)
+![](../.gitbook/assets/function-14-weapon.png)
 
 3. Click on "Write". You will be prompted by MetaMask to confirm your transaction.
 

@@ -26,6 +26,16 @@ If you wish to have CBW visible on your MetaMask wallet, you may add the token t
 Set the decimal to "0" if prompted.
 {% endhint %}
 
+## Weapon Durability
+
+![](../../.gitbook/assets/weapon-stamina.png)
+
+Weapons have durability, which serves to limit how often a weapon can be used to prevent people from simply passing one weapon around to multiple accounts.
+
+Durability recovers at a rate equal to character stamina, so a single account can use a single weapon for fighting with four characters.
+
+Durability has no effect on win rate, or the effectiveness of any weapon when used in combat.
+
 ## Weapon Minting
 
 Minting weapons serves as the primary SKILL sink of the game along with Reforging. All SKILL spent on minting weapons gets sent to the contract that handles fight payouts.
