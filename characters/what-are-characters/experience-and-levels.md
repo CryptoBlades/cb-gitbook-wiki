@@ -14,7 +14,7 @@ Currently milestones occur every ten levels, starting from 11 then 21, 31, 41, e
 
 To calculate whether or not it is time to claim, you can make a copy of the following spreadsheet:
 
-[CryptoBlades Experience Calculator](https://docs.google.com/spreadsheets/d/1Yv2CxZAxJyHdeseMEDS3odU26p5y7X6_z68RWMrZbXM/edit#gid=1414689467)
+Link to the spreadsheet here: [**CryptoBlades Experience Calculator**](https://docs.google.com/spreadsheets/d/1Yv2CxZAxJyHdeseMEDS3odU26p5y7X6_z68RWMrZbXM/edit#gid=1414689467)\*\*\*\*
 
 An overview of the experience table can be found below:
 

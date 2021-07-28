@@ -8,7 +8,7 @@ SKILL can be purchased on a decentralized exchange such as ApeSwap using BNB.
 
 The steps to purchasing SKILL are outlined below:
 
-1. Go to [ApeSwap](https://app.apeswap.finance/swap?outputCurrency=0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab).
+1. Go to [**ApeSwap**](https://app.apeswap.finance/swap?outputCurrency=0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab).
 
 2. Click on the "Connect to a wallet" button on the upper right hand side of the screen.
 
