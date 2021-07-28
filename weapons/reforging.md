@@ -56,3 +56,15 @@ Refer to the following to determine how much the pool will increase when the res
 * 4-star weapon burns always increases 4B by one.
 * 5-star weapon burns always increases 5B by one.
 
+## Carryover Value
+
+When using an already reforged weapon as a burn weapon, half of the burn weapon's LB, 4B, and 5B gets carried over to the new weapon.
+
+In the case of decimals due to dividing an odd numbered LB, 4B, and 5B, the number is rounded down to zero.
+
+{% hint style="info" %}
+A weapon with 50 LB will transfer 25 LB when used as a burn weapon.
+
+A weapon with 55 LB will transfer 27 LB when used as a burn weapon.
+{% endhint %}
+
