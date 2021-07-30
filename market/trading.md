@@ -68,13 +68,13 @@ The steps to trade weapons is identical to character trading, except the functio
 
 ![](../.gitbook/assets/connected-web3.png)
 
-2. Scroll down to Function 14. safeTransferFrom and input the following data:
+2. Scroll down to Function 16. safeTransferFrom and input the following data:
 
 * from \(address\) - The owner's address goes here
 * to \(address\) - The receiver's address goes here
 * tokenID \(uint256\) - The weapon ID goes here
 
-![](../.gitbook/assets/function-14-weapon.png)
+![](../.gitbook/assets/func-16%20%281%29.png)
 
 3. Click on "Write". You will be prompted by MetaMask to confirm your transaction.
 
