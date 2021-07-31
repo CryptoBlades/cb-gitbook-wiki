@@ -12,15 +12,13 @@ To create a new account, simply click on the circle icon on the upper right side
 
 ![](../.gitbook/assets/create-account.png)
 
-Sometimes, CryptoBlades may not recognize a second account on the same MetaMask. To resolve this, go back to your primary account and click on the ellipsis button under the circle icon and select "Connected sites".
+Sometimes, CryptoBlades may not recognize a second account on the same MetaMask. To resolve this, click on the MetaMask icon in your browser's extensions tab and click on the "Not connected" text.
 
-![](../.gitbook/assets/connected-sites.png)
+![](../.gitbook/assets/not-connected.png)
 
-You will see a list of all websites that you have connected your MetaMask account with. Find the app.cryptoblades.io entry and delete it. This will not delete anything on your account, it will merely reset the linking process of CryptoBlades and MetaMask.
+Click on the "Connect" button when prompted.
 
-![](../.gitbook/assets/delete-cb.png)
+![](../.gitbook/assets/connect-button.png)
 
-Once you are finished, proceed back to the CryptoBlades application. You will be prompted to once again connect your MetaMask. Select all your associated accounts and connect them.
-
-If in the future you wish to add more accounts, you may have to repeat this process again to enable linking.
+Once you are finished, CryptoBlades should now detect your new account. If your new account is not yet reflected on the website, simply refresh CryptoBlades.
 

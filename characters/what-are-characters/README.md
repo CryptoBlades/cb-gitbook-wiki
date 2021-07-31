@@ -40,7 +40,7 @@ Each character has their own individual stamina pool, with a maximum count of 20
 
 Stamina regenerates at a rate of one point every five minutes.
 
-Stamina is spent when the player engages in combat, at a rate of 40 stamina per fight.
+Stamina is spent when the player engages in combat, at a rate of 40/80/120/160/200 stamina per fight depending on the player's selected stamina cost per fight.
 
 This means that in 24 hours, each character can get 288 stamina which equates to 7.2 fights.
 

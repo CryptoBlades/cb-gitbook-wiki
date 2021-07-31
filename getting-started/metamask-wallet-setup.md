@@ -4,11 +4,11 @@
 
 [MetaMask](https://metamask.io/) can be downloaded as a browser extension on any compatible browser.
 
-The links to download MetaMask can be found here for [Chrome Web Store](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn), [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/), and [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm).
+The links to download MetaMask can be found here for [**Chrome Web Store**](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn), [**Firefox Add-ons**](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/), and [**Edge Add-ons**](https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm).
 
 MetaMask is also compatible with Brave browser.
 
-MetaMask can also be installed on [Android](https://play.google.com/store/apps/details?id=io.metamask&hl=en_US&ref=producthunt&_branch_match_id=739701339152755845), and [iOS](https://apps.apple.com/us/app/metamask/id1438144202?_branch_match_id=739701339152755845).
+MetaMask can also be installed on [**Android**](https://play.google.com/store/apps/details?id=io.metamask&hl=en_US&ref=producthunt&_branch_match_id=739701339152755845), and [**iOS**](https://apps.apple.com/us/app/metamask/id1438144202?_branch_match_id=739701339152755845).
 
 ## Creating an Account
 
