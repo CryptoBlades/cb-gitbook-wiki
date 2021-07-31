@@ -34,3 +34,9 @@ Choosing low powered enemies results in a higher win rate with a lower experienc
 
 For new players, it is recommended to choose lower powered enemies to guarantee a reward and experience progression.
 
+## Stamina Spending
+
+Spending a larger amount of stamina per fight would result in the same dollar value return when considering gas, but may result in a smaller average payout over a long period of time if the player loses multiple fights.
+
+Higher stamina spending amplifies any losses the player may get, but in return saves time and gas especially if the player is operating with multiple accounts and/or a budget in gas BNB.
+

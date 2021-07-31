@@ -30,9 +30,7 @@ The listed price of NFTs on the marketplace is tax-inclusive, and the 10% tax is
 
 ## Trade Lock
 
-Items that are listed and bought via the marketplace, or traded via smart contracts will incur a 24 hour trade lock before the item can be listed or traded again.
-
-This trade lock is necessary to prevent users from abusing the use of a single sword across multiple accounts.
+Characters that are listed and bought via the marketplace, or traded via smart contracts will incur a 24 hour trade lock before the item can be listed or traded again.
 
 {% hint style="info" %}
 Attempting to list or trade a locked item incurs a 0.285 gas fee error. Please do not attempt to bypass the 24 hour trade lock.

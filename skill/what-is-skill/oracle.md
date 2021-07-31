@@ -15,6 +15,10 @@ Conversely, if SKILL price in dollar falls under a specific amount the opposite 
 
 The oracle will ensure that daily income will always be larger than gas fee costs, unless the player chooses to lose a majority of their daily fights.
 
+{% hint style="info" %}
+The Oracle will dynamically adjust fight payouts up or down depending on changes in the dollar value of SKILL.
+{% endhint %}
+
 ## Reason
 
 The reason for the oracle's usage is so that the economy of the game is balanced around a set dollar value. There is a limited amount of SKILL token that can circulate in the economy, and an increase in users would likely drain all the SKILL present in the game contract.

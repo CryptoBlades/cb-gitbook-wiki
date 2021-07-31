@@ -1,12 +1,14 @@
 # Combat Rewards
 
-## Experience Gained
+## Stamina per Fight
 
-Experience gained can be calculated by taking the Aligned Power and listed enemy power from the previous section and applying it to the formula below:
+Players may decide how much stamina they wish to spend on a single fight, and can spend up to 200 stamina in one go.
 
-$$
-expGained = Math.Floor((enemyPower / alignedPower) * 32)
-$$
+Gas offset is paid once per transaction, so if the user decides to spend 200 stamina they would receive 5x the evaluated baseline rewards, but gas offset only once.
+
+The expected dollar value gains are equivalent for all tiers of stamina spending when accounting for gas, however earnings across an average period of time may differ if the player loses multiple high stamina fights.
+
+Experience gained in fights are also multiplied proportionally depending on whatever stamina value the player chooses to spend.
 
 ## Skill Payout
 
@@ -16,31 +18,17 @@ $$
 payout = gasOffset + (baseline * √(enemyPower/1000))
 $$
 
-Gas Offset is shown in the earnings on victory display on the Combat tab as follows:
+Gas Offset is shown in the earnings calculator as follows:
 
-![Taken July 18, 2021](../../.gitbook/assets/earnings-gas-offset%20%281%29.png)
+![Taken August 1, 2021](../../.gitbook/assets/payout-calc-offset.png)
 
-Baseline is shown in the earnings on victory display on the Combat tab as follows:
+Baseline is also shown in the earnings calculator as follows:
 
-![Taken July 18, 2021](../../.gitbook/assets/earnings-baseline.png)
+![Taken August 1, 2021](../../.gitbook/assets/payout-calc-baseline.png)
 
-These numbers are subject to change in the future as the developers continue to balance the economic state of the game.
+These numbers are dynamically adjusted by the Oracle, taking into account SKILL dollar value.
 
-To give an example, let us use this enemy for the basis of our calculations:
-
-![Taken July 18, 2021](../../.gitbook/assets/sample-enemy.png)
-
-29628 gets divided by 1000 to get 29.628.
-
-We then get the square root of this value to get roughly 5.443161.
-
-We multiply that value with the baseline rewards value at the time to get roughly 0.352641.
-
-That gets added to the gas offset to get the expected payout of 0.396291.
-
-As we can see below, we get a similar value when we actually perform the fight.
-
-![Taken July 18, 2021](../../.gitbook/assets/result.png)
-
-Decimal places and rounding gives a slightly different value from what we calculated, but overall it's close to our projected value.
+{% hint style="info" %}
+Note that the "power" variable indicated in the formula is the listed power value of whatever enemy the player chooses to fight.
+{% endhint %}
 

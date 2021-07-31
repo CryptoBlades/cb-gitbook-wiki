@@ -2,7 +2,7 @@
 
 Owing to the player owned nature of NFT assets, players may freely trade with one another outside the marketplace through the use of the NFT smart contracts.
 
-NFTs traded through the use of smart contracts incur the same 24 hour trade lock.
+Characters traded through the use of smart contracts incur the same 24 hour trade lock.
 
 {% hint style="info" %}
 Please note that it is possible for you to be the target of scams and frauds when conducting peer to peer trading.

@@ -4,11 +4,11 @@ SKILL is the currency used to create and enhance the asset NFTs players use to p
 
 ## In Game Only Funds
 
-In-Game-Only SKILL is SKILL that can only be spent on minting characters, minting weapons, and reforging.
+In-Game-Only SKILL is SKILL that can only be spent on minting weapons, and reforging.
 
 In-Game-Only cannot be spent on the marketplace to purchase NFTs.
 
-This SKILL is currently obtainable through staking in the SKILL for SKILL pool.
+This SKILL is currently unobtainable at the moment, though this maybe subject to change depending on future features.
 
 More information on staking can be found here:
 
