@@ -16,7 +16,7 @@ To ensure smooth trading with no risk, please conduct trades through the CryptoB
 
 Trading characters takes place on the character contract, which can be found in the link below. Note that this is different from the weapon contract.
 
-This is the link to the character contract : [**CryptoBlades Character Trading Contract**](https://bscscan.com/address/0xc6f252c2cdd4087e30608a35c022ce490b58179b#writeProxyContract)\*\*\*\*
+This is the link to the character contract : [**CryptoBlades Character Trading Contract**](https://bscscan.com/address/0xc6f252c2cdd4087e30608a35c022ce490b58179b#writeProxyContract)
 
 {% hint style="info" %}
 Please note that this link is different from the weapon trading contract.
@@ -52,7 +52,7 @@ Make sure that the account in possession of the character is the one connected t
 
 Trading weapons takes place on the weapon contract, which can be found in the link below. Note that this is different from the character contract.
 
-This is the link to the weapon contract : [**CryptoBlades Weapon Trading Contract**](https://bscscan.com/address/0x7e091b0a220356b157131c831258a9c98ac8031a#writeProxyContract)\*\*\*\*
+This is the link to the weapon contract : [**CryptoBlades Weapon Trading Contract**](https://bscscan.com/address/0x7e091b0a220356b157131c831258a9c98ac8031a#writeProxyContract)
 
 {% hint style="info" %}
 Please note that this link is different from the character trading contract.
