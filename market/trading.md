@@ -74,7 +74,7 @@ The steps to trade weapons is identical to character trading, except the functio
 * to \(address\) - The receiver's address goes here
 * tokenID \(uint256\) - The weapon ID goes here
 
-![](../.gitbook/assets/func-16%20%281%29.png)
+![](https://user-images.githubusercontent.com/43546617/127622676-72634467-cb7a-4138-81a2-d949b9f477c9.png)
 
 3. Click on "Write". You will be prompted by MetaMask to confirm your transaction.
 
