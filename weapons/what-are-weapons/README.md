@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/weapons.png)
 
-Weapons are one of the main NFTs the player can possess in CryptoBlades. 
+Weapons are one of the main NFTs the player can possess in CryptoWar 
 
 Unlike characters, each account can hold an unlimited amount of weapons.
 
@@ -16,7 +16,7 @@ Currently there is no way to change any of the values the weapon may roll.
 
 ## CBW
 
-CBW stands for CryptoBlades Weapon, and are the weapon NFTs present on your wallet.
+CBW stands for CryptoWar Weapon, and are the weapon NFTs present on your wallet.
 
 If you wish to have CBW visible on your MetaMask wallet, you may add the token through it's contract address found below:
 
@@ -38,7 +38,7 @@ Durability has no effect on win rate, or the effectiveness of any weapon when us
 
 ## Weapon Minting
 
-Minting weapons serves as the primary SKILL sink of the game along with Reforging. All SKILL spent on minting weapons gets sent to the contract that handles fight payouts.
+Minting weapons serves as the primary $XWeapon sink of the game along with Reforging. All $XWeapon spent on minting weapons gets sent to the contract that handles fight payouts.
 
 The rarity of a weapon is randomly determined upon minting. Currently the rates of each rarity is as follows:
 
@@ -52,7 +52,7 @@ There is currently no pity system, or a form of guarantee that a specific amount
 
 ## Weapon Elements
 
-The element of a weapon is randomly determined upon minting. Weapons share the same elements as characters \(Fire, Earth, Lightning, Water\).
+The element of a weapon is randomly determined upon minting. Weapons share the same elements as characters \(Fire, Earth, Air, Water\).
 
 The element of the weapon is used for calculating the player roll for combat.
 
