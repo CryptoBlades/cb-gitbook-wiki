@@ -2,11 +2,11 @@
 
 ![](../../.gitbook/assets/characters.png)
 
-Characters are one of the main NFTs the player can possess in CryptoBlades. 
+Characters are one of the main NFTs the player can possess in CryptoWar. 
 
 Each account can hold a maximum of four characters at any given time.
 
-The price to mint characters is displayed on the button in the Plaza tab. All SKILL spent on minting characters gets sent to the contract that handles fight payouts.
+The price to mint characters is displayed on the button in the Plaza tab. All $XWeapon spent on minting characters gets sent to the contract that handles fight payouts.
 
 Each character starts at level one, and comes with a random element upon minting.
 
@@ -14,7 +14,7 @@ Currently there is no way to change the element of a character.
 
 ## CBC
 
-CBC stands for CryptoBlades Character, and are the character NFTs present on your wallet.
+CBC stands for CryptoWar Character, and are the character NFTs present on your wallet.
 
 If you wish to have CBC visible on your MetaMask wallet, you may add the token through it's contract address found below:
 
@@ -26,7 +26,7 @@ Set the decimal to "0" if prompted.
 
 ## Character Elements
 
-Each character comes as one of four different elements \(Fire, Earth, Lightning, Water\).
+Each character comes as one of four different elements \(Fire, Earth, Air, Water\).
 
 Character elements are used to determine advantage calculations and multipliers in combat.
 
