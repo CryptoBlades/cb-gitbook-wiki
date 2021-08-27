@@ -1,10 +1,12 @@
-# Purchasing SKILL
+# Purchasing $XWeapon
 
-Once your MetaMask has been connected to the BSC network and has received an appropriate amount of BNB, you may proceed to an exchange to purchase SKILL.
+Once your MetaMask has been connected to the BSC network and has received an appropriate amount of BNB, you may proceed to an exchange to purchase $XWeaponnb
 
-## Purchasing SKILL on a DEX
+.
 
-SKILL can be purchased on a decentralized exchange such as ApeSwap using BNB.
+## Purchasing $XWeapon on a DEX
+
+$XWeapon can be purchased on a decentralized exchange such as ApeSwap using BNB.
 
 The steps to purchasing SKILL are outlined below:
 
@@ -32,9 +34,9 @@ The steps to purchasing SKILL are outlined below:
 Be patient and wait for pending transactions to complete. Repeated clicking may cause multiple transactions to register and unnecessary gas fees might be paid.
 {% endhint %}
 
-Once your transaction has completed you should see your SKILL balance reflected in your MetaMask Assets tab.
+Once your transaction has completed you should see your $XWeapon balance reflected in your MetaMask Assets tab.
 
-If SKILL isn't listed on your assets, you may click "Add Token" and input the contract address for SKILL found below:
+If $XWeapon isn't listed on your assets, you may click "Add Token" and input the contract address for $XWeapon found below:
 
 > 0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab
 
