@@ -1,21 +1,21 @@
 # Marketplace
 
-CryptoBlades assets such as characters and weapons are user owned ERC-721 NFTs can be freely traded with other players.
+CryptoWar assets such as characters and weapons are user owned ERC-721 NFTs can be freely traded with other players.
 
-To remove the possibility for scams when conducting trades through the use of the NFT contracts, CryptoBlades has a proprietary marketplace where users may list and purchase their NFTs.
+To remove the possibility for scams when conducting trades through the use of the NFT contracts, CryptoWar has a proprietary marketplace where users may list and purchase their NFTs.
 
-## Approving SKILL Spending
+## Approving $XWeapon Spending
 
 The first notification the player gets when purchasing NFTs on the marketplace is an approval transaction similar to the one pictured below:
 
 ![](../.gitbook/assets/allow-skill-spending.png)
 
-CryptoBlades does not have free authorization to spend SKILL directly from your MetaMask wallet, and therefore must ask for authorization each time the player wants to make a marketplace transaction.
+CryptoWar does not have free authorization to spend $XWeapon directly from your MetaMask wallet, and therefore must ask for authorization each time the player wants to make a marketplace transaction.
 
 This transaction is different from the actual purchase confirmation. Players will receive a new notification for the market purchase after the approval transaction has completed.
 
 {% hint style="info" %}
-Approving SKILL does NOT mean you were able to purchase an item on the market.
+Approving $XWeapon does NOT mean you were able to purchase an item on the market.
 
 You will receive a gas fee error if you attempt to purchase an item that has already been purchased by someone else.
 {% endhint %}
@@ -26,7 +26,7 @@ Listing an NFT only requires the gas fee necessary to conduct the transaction to
 
 Purchasing an NFT from the marketplace incurs a 10% tax, paid for by the buyer.
 
-The listed price of NFTs on the marketplace is tax-inclusive, and the 10% tax is redirected into the contract responsible for SKILL payouts through combat.
+The listed price of NFTs on the marketplace is tax-inclusive, and the 10% tax is redirected into the contract responsible for $XWeapon payouts through combat.
 
 ## Trade Lock
 
@@ -70,7 +70,7 @@ De-listing an item still incurs the 24 hour trade lock, so you won't immediately
 
 The List NFTs tab lets you list your own NFTs on the marketplace. You can view the characters and weapons on your wallet and list them at a price of your choosing.
 
-Please note that the price you input upon listing is the amount of SKILL you receive. The actual listed price on the marketplace will have a 10% tax added on top of it.
+Please note that the price you input upon listing is the amount of $XWeapon you receive. The actual listed price on the marketplace will have a 10% tax added on top of it.
 
 Listing involves transferring the NFT from your wallet to the marketplace, and as such incurs a gas fee similar to trading. You will also be prompted to allow CryptoBlades approval to use your CBC or CBW.
 
