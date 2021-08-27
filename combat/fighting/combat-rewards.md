@@ -10,9 +10,9 @@ The expected dollar value gains are equivalent for all tiers of stamina spending
 
 Experience gained in fights are also multiplied proportionally depending on whatever stamina value the player chooses to spend.
 
-## Skill Payout
+## $XWeapon Payout
 
-The formula to determine SKILL payout is as follows:
+The formula to determine $XWeapon payout is as follows:
 
 $$
 payout = gasOffset + (baseline * √(enemyPower/1000))
