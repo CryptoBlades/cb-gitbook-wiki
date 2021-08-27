@@ -33,7 +33,7 @@ CryptoBlades developers and moderators will never ask for your seed phrase and p
 
 After you create an account on MetaMask, it will default to the Ethereum Mainnet.
 
-CryptoBlades and SKILL requires your wallet to be set to the Binance Smart Chain Mainnet.
+CryptoWar and $XWeapon requires your wallet to be set to the Binance Smart Chain Mainnet.
 
 The steps to add the BSC network are outlined below:
 
