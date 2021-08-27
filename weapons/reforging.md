@@ -2,9 +2,9 @@
 
 ![](../.gitbook/assets/reforge.png)
 
-Reforging weapons is the process of spending SKILL tokens to burn one weapon into another. The target weapon receives bonus power, and the burned weapon disappears.
+Reforging weapons is the process of spending $XWeapon tokens to burn one weapon into another. The target weapon receives bonus power, and the burned weapon disappears.
 
-Alongside weapon forging, reforging serves as one of the two SKILL sinks in the game. Reforging also gives value to the massive amounts of one to three star weapons that a player may receive when trying to forge for four or five stars.
+Alongside weapon forging, reforging serves as one of the two $XWeapon sinks in the game. Reforging also gives value to the massive amounts of one to three star weapons that a player may receive when trying to forge for four or five stars.
 
 ## LB, 4B, and 5B
 
