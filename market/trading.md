@@ -7,16 +7,16 @@ Characters traded through the use of smart contracts incur the same 24 hour trad
 {% hint style="info" %}
 Please note that it is possible for you to be the target of scams and frauds when conducting peer to peer trading.
 
-The CryptoBlades team takes no responsibility and are unable to provide assistance if you have lost SKILL or NFTs through peer to peer trading.
+The CryptoBlades team takes no responsibility and are unable to provide assistance if you have lost $XWeapon or NFTs through peer to peer trading.
 
-To ensure smooth trading with no risk, please conduct trades through the CryptoBlades marketplace.
+To ensure smooth trading with no risk, please conduct trades through the CryptoWar marketplace.
 {% endhint %}
 
 ## Trading Characters
 
 Trading characters takes place on the character contract, which can be found in the link below. Note that this is different from the weapon contract.
 
-This is the link to the character contract : [**CryptoBlades Character Trading Contract**](https://bscscan.com/address/0xc6f252c2cdd4087e30608a35c022ce490b58179b#writeProxyContract)
+This is the link to the character contract : [**CryptoWar Character Trading Contract**](https://bscscan.com/address/0xc6f252c2cdd4087e30608a35c022ce490b58179b#writeProxyContract)
 
 {% hint style="info" %}
 Please note that this link is different from the weapon trading contract.
