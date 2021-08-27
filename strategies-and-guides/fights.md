@@ -28,9 +28,9 @@ Enemy power ranges from ±10% of the calculated value, and as such have a wide v
 
 The choice to target a high powered enemy against a low powered enemy boils down to choosing payout over win rate.
 
-Choosing high powered enemies have a higher chance of loss, but have a higher experience and SKILL payout as well.
+Choosing high powered enemies have a higher chance of loss, but have a higher experience and $XWeapon payout as well.
 
-Choosing low powered enemies results in a higher win rate with a lower experience gain and SKILL payout.
+Choosing low powered enemies results in a higher win rate with a lower experience gain and $XWeapon payout.
 
 For new players, it is recommended to choose lower powered enemies to guarantee a reward and experience progression.
 
