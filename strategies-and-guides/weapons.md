@@ -2,7 +2,7 @@
 
 ## Choosing a Weapon
 
-The higher the rarity of your weapon, the higher the SKILL payout. Due to the formula adjusting based on your chosen weapon and character, your expected win rate should not fluctuate even if you use a higher rarity weapon and face higher powered enemies.
+The higher the rarity of your weapon, the higher the $XWeapon payout. Due to the formula adjusting based on your chosen weapon and character, your expected win rate should not fluctuate even if you use a higher rarity weapon and face higher powered enemies.
 
 The recommendation is to find a good 4-star or 5-star weapon to start with, depending on your budget, and build a team around that weapon. You may also choose to purchase characters first and find a weapon that fits the team element.
 
@@ -22,7 +22,7 @@ When operating on a budget, some concessions have to be made regarding weapon ch
 
 Other than matching the weapon element to the character, it is recommended to choose a weapon with high numerical stats, regardless of elemental matching.
 
-A high numerical stat total results in higher SKILL payout per fight, and the win rate impact of having unmatched stats can be mitigated if the player makes optimal choices in combat.
+A high numerical stat total results in higher $XWeapon payout per fight, and the win rate impact of having unmatched stats can be mitigated if the player makes optimal choices in combat.
 
 {% hint style="info" %}
 Different rarities of weapons have different minimum and maximum attribute value totals. The minimum and maximum total attributes for weapons above 3-star are listed below:
@@ -34,7 +34,7 @@ Different rarities of weapons have different minimum and maximum attribute value
 
 If a character is selected when choosing a weapon, users may find that deciding based on percentage is a better option if they wish to consider win rate.
 
-The percentage value of the weapon takes into account the character element, so choosing a high total percentage will lead to a weapon that has a high SKILL payout and a high win rate.
+The percentage value of the weapon takes into account the character element, so choosing a high total percentage will lead to a weapon that has a high $XWeapon payout and a high win rate.
 
 {% hint style="info" %}
 Similar to the numerical values, percentages also have different minimums and maximums. The values for total percentages of 3-star weapons and above are listed below:
@@ -49,6 +49,6 @@ Similar to the numerical values, percentages also have different minimums and ma
 Based on the above information, we can make several key decisions in choosing our weapon.
 
 * Always use a weapon that matches the character's element.
-* Choose a weapon with as high numerical stats as possible for maximum SKILL payout.
+* Choose a weapon with as high numerical stats as possible for maximum $XWeapon payout.
 * Try and match a weapon's attribute element with the character's element for an increase in win rate.
 
