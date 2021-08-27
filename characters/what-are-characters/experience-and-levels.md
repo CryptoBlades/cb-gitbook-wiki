@@ -6,7 +6,7 @@ Character levels determine the amount of power they have during combat calculati
 
 ## Level Milestones
 
-Level milestones are specific points where the character receives a large boost in power, and in turn increases their SKILL payout.
+Level milestones are specific points where the character receives a large boost in power, and in turn increases their $XWeapon payout.
 
 Currently milestones occur every ten levels, starting from 11 then 21, 31, 41, etc.
 
@@ -24,11 +24,11 @@ An overview of the experience table can be found below:
 
 ![](../../.gitbook/assets/claim-exp.png)
 
-Experience won through battles is stored in the Rewards bar, similar to SKILL.
+Experience won through battles is stored in the Rewards bar, similar to $XWeapon.
 
 As claiming experience costs a gas fee for the transaction, it is recommended to only claim your experience for a character if it will push them to the next milestone if the character in question is under level 41.
 
-Past level 41, it becomes beneficial to claim their experience every level thereafter as the boost in power will result in more SKILL gained through fight payouts.
+Past level 41, it becomes beneficial to claim their experience every level thereafter as the boost in power will result in more $XWeapon gained through fight payouts.
 
 {% hint style="info" %}
 Often times due to varying win rates, character levels may become desynced.
