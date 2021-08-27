@@ -97,8 +97,8 @@ if charElement < enemyElement (TraitBonus -= 0.075)
 The elemental advantage in regards to character against enemy is as follows:
 
 * Fire beats Earth
-* Earth beats Lightning
-* Lightning beats Water
+* Earth beats Air
+* Air beats Water
 * Water beats Fire
 
 Trait Bonus gets evaluated and then multiplied with Aligned Power to get the players final power value.
