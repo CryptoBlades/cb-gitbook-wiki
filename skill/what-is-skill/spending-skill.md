@@ -10,10 +10,6 @@ In-Game-Only cannot be spent on the marketplace to purchase NFTs.
 
 This SKILL is currently unobtainable at the moment, though this maybe subject to change depending on future features.
 
-More information on staking can be found here:
-
-{% page-ref page="staking.md" %}
-
 ## SKILL Spending Order
 
 CryptoBlades will prioritize spending SKILL in the following order for minting characters, weapons, and reforging:
@@ -54,5 +50,17 @@ All of the SKILL spent reforging weapons goes directly into the contract used to
 
 More information on reforging can be found here:
 
-{% page-ref page="../../weapons/reforging.md" %}
+{% page-ref page="../../weapons/reforging/" %}
+
+## SKILL Shop
+
+The SKILL shop features anything that CryptoBlades is selling for SKILL, that does not fit into any of the main categories.
+
+In here, you may find special promos such as limited edition NFTs, and cosmetics that can be purchased for SKILL and used in CryptoBlades.
+
+Any SKILL spent on items for sale in the SKILL shop goes back into the rewards pool contract.
+
+More information on the different things found in the SKILL Shop can be found here:
+
+{% page-ref page="../skill-shop/" %}
 

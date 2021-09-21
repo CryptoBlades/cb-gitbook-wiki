@@ -17,6 +17,10 @@
   * [Obtaining SKILL](skill/what-is-skill/obtaining-skill.md)
   * [Staking](skill/what-is-skill/staking.md)
   * [Oracle](skill/what-is-skill/oracle.md)
+* [SKILL Shop](skill/skill-shop/README.md)
+  * [Limited Edition NFTs](skill/skill-shop/limited-edition-nfts.md)
+  * [Functional Items](skill/skill-shop/functional-items.md)
+  * [Cosmetics](skill/skill-shop/cosmetics.md)
 
 ## Characters
 
@@ -27,7 +31,8 @@
 
 * [What are Weapons?](weapons/what-are-weapons/README.md)
   * [Weapon Attributes](weapons/what-are-weapons/weapon-stats.md)
-* [Reforging](weapons/reforging.md)
+* [Reforging](weapons/reforging/README.md)
+  * [Dust](weapons/reforging/dust.md)
 
 ## Combat
 
@@ -35,6 +40,8 @@
   * [Combat Formula](combat/fighting/combat-formula.md)
   * [Calculating Power](combat/fighting/calculating-player-power.md)
   * [Combat Rewards](combat/fighting/combat-rewards.md)
+* [Raids](combat/raids/README.md)
+  * [Raid Formula](combat/raids/raid-formula.md)
 
 ## Marketplace <a id="market"></a>
 

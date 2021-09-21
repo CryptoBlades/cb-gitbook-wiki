@@ -10,7 +10,7 @@ The price to mint characters is displayed on the button in the Plaza tab. All SK
 
 Each character starts at level one, and comes with a random element upon minting.
 
-Currently there is no way to change the element of a character.
+Players may purchase element change potions from the SKILL shop to change the elements of their characters.
 
 ## CBC
 
