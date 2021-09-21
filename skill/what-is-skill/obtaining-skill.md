@@ -54,5 +54,3 @@ Players may also conduct peer to peer trades through the use of the NFT contract
 
 Information on player trading can be found here:
 
-{% page-ref page="../../market/trading.md" %}
-

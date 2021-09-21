@@ -6,6 +6,10 @@ The higher the rarity of your weapon, the higher the SKILL payout. Due to the fo
 
 The recommendation is to find a good 4-star or 5-star weapon to start with, depending on your budget, and build a team around that weapon. You may also choose to purchase characters first and find a weapon that fits the team element.
 
+If players don't intend to raid, then a single weapon will suffice as it can be shared between all four characters for the purpose of fighting.
+
+One weapon per character is necessary if the player intends to send their characters on raids.
+
 ## Weapon Element
 
 Because of the Trait Bonus in the combat formula, it is always recommended to use a weapon whose element matches the character wielding it.

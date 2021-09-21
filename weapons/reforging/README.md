@@ -1,6 +1,6 @@
 # Reforging
 
-![](../.gitbook/assets/reforge.png)
+![](../../.gitbook/assets/reforge.png)
 
 Reforging weapons is the process of spending SKILL tokens to burn one weapon into another. The target weapon receives bonus power, and the burned weapon disappears.
 
@@ -8,7 +8,7 @@ Alongside weapon forging, reforging serves as one of the two SKILL sinks in the 
 
 ## LB, 4B, and 5B
 
-![](../.gitbook/assets/reforge-lb-4b-5b.png)
+![](../../.gitbook/assets/reforge-lb-4b-5b.png)
 
 A reforged weapon displays new information when hovered over. This is the LB, 4B, 5B, and Bonus Power.
 
@@ -20,13 +20,13 @@ LB stands for _Low Star Burn_ and is the total value of one to three star weapon
 
 ## Bonus Power
 
-![](../.gitbook/assets/reforge-bonus-power.png)
+![](../../.gitbook/assets/reforge-bonus-power.png)
 
 Bonus Power is a new stat gained when reforging that is used alongside weapon attributes to determine player power for combat rolls.
 
 More information on how Bonus Power is used can be found here:
 
-{% page-ref page="../combat/fighting/" %}
+{% page-ref page="../../combat/fighting/" %}
 
 ## Burn Value
 

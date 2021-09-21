@@ -54,6 +54,10 @@ An example of in-game events would be a "Reforge Bonus" event where an increase 
 
 > Written by : godsendtoxic\#7683
 
+## Advertisements
+
+CryptoBlades has advertisements, and the revenues from advertisements goes towards SKILL buybacks for refilling the contract pool.
+
 ## Impact of Multi-Accounting
 
 Many questions come up around the subject of multi-accounting and sustainability. This is not an issue because the economics of the game cannot distinguish between a single player who has 10 accounts, compared to 10 players each with a single account.
