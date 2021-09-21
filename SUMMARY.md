@@ -46,7 +46,6 @@
 ## Marketplace <a id="market"></a>
 
 * [Marketplace](market/marketplace.md)
-* [Trading](market/trading.md)
 
 ## Strategies and Guides
 
